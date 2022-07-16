@@ -1,0 +1,8 @@
+C:\Users\blank\source\repos\AntiRobert\AntiRobert\bin\Release\AntiRobert.exe.config
+C:\Users\blank\source\repos\AntiRobert\AntiRobert\bin\Release\AntiRobert.exe
+C:\Users\blank\source\repos\AntiRobert\AntiRobert\bin\Release\AntiRobert.pdb
+C:\Users\blank\source\repos\AntiRobert\AntiRobert\obj\Release\AntiRobert.csproj.AssemblyReference.cache
+C:\Users\blank\source\repos\AntiRobert\AntiRobert\obj\Release\AntiRobert.csproj.SuggestedBindingRedirects.cache
+C:\Users\blank\source\repos\AntiRobert\AntiRobert\obj\Release\AntiRobert.csproj.CoreCompileInputs.cache
+C:\Users\blank\source\repos\AntiRobert\AntiRobert\obj\Release\AntiRobert.exe
+C:\Users\blank\source\repos\AntiRobert\AntiRobert\obj\Release\AntiRobert.pdb
